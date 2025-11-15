@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "2e05624acc4ac03b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5eb71bd77b70ba46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bf067790509aa76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bootcamp Intensivo Python - (1-5)/01_Aula 01 - Python, Git e VScode (Python do Zero).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_Aula 01 - Python, Git e VScode (Python do Zero)"
+            }
+          },
+          {
+            "id": "c64b025f3ec70465",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workshop - Git e Github/02_Git_Github (Aula_02).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02_Git_Github (Aula_02)"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67858627bf5f8cf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c22db7a8070a23c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23839da63664d4bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "40b6876b85fb2624",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "2fb020976f07e46f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e6343572fecabc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e285473637e8df79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "893ac9f1e1464abd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Workshop - Git e Github/02_Git_Github (Aula_02).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 02_Git_Github (Aula_02)"
+            }
+          },
+          {
+            "id": "727cadf0de705f02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Workshop - Git e Github/02_Git_Github (Aula_02).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 02_Git_Github (Aula_02)"
+            }
+          },
+          {
+            "id": "ac214b6535fd2c84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "76a907326cc9d123",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Workshop - Git e Github/02_Git_Github (Aula_02).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 02_Git_Github (Aula_02)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "c64b025f3ec70465",
+  "lastOpenFiles": [
+    "Workshop - Git e Github/01_Git_Github (Aula_01).md",
+    "Workshop - Git e Github/02_Git_Github (Aula_02).md",
+    "Bootcamp Intensivo Python - (1-5)/01_Aula 01 - Python, Git e VScode (Python do Zero).md",
+    "Workshop - Git e Github/03_Anotações.md",
+    "Bootcamp Intensivo Python - (1-5)/pic2.png",
+    "Bootcamp Intensivo Python - (1-5)/pic.png",
+    "Workshop - Git e Github/README.md",
+    "Workshop - Git e Github.md",
+    "Workshop - Git e Github",
+    "Bootcamp Intensivo Python - (1-5)",
+    "Bem-vindo.md",
+    "crie um link.md"
+  ]
+}
