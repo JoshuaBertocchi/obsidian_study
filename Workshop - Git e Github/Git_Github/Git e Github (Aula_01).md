@@ -748,4 +748,4 @@ end
 D --> |"git push"| E[Remote Repository];
 ```
 
-Próxima aula [[02_Git_Github (Aula_02)]]
+Próxima aula [[Git e Github (Aula_02)]]

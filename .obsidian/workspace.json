@@ -4,25 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "5eb71bd77b70ba46",
+        "id": "b726451fb47e58f7",
         "type": "tabs",
         "children": [
           {
-            "id": "20c2d6606f47396c",
+            "id": "ef3eb2a5465d82fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bootcamp Intensivo Python - (1-5)/01_Aula 01 - Python, Git e VScode (Python do Zero).md",
+                "file": "Workshop - Git e Github/Comandos_GitBash/Comandos GitHub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_Aula 01 - Python, Git e VScode (Python do Zero)"
+              "title": "Comandos GitHub"
             }
           },
           {
-            "id": "3b2da577c10cc56d",
+            "id": "55857eeb51896001",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -31,8 +31,7 @@
               "title": "Visualização em gráfico"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 304.5
   },
   "right": {
     "id": "1e6343572fecabc2",
@@ -180,21 +179,25 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3b2da577c10cc56d",
+  "active": "23839da63664d4bd",
   "lastOpenFiles": [
-    "Bootcamp Intensivo Python - (1-5)/01_Aula 01 - Python, Git e VScode (Python do Zero).md",
+    "Workshop - Git e Github/Comandos_GitBash/Comandos essenciais do Terminal (CD,LS...).md",
+    "Workshop - Git e Github/Comandos_GitBash/Comandos GitHub.md",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (01) Python, Git e VScode (Python do Zero).md",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/pic.png",
+    "Python - Jornada de Dados",
+    "Bootcamp Intensivo Python - (1-5)/Sem título.md",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img",
+    "Workshop - Git e Github/Git_Github/Git e Github (Aula_02).md",
+    "Workshop - Git e Github/Git_Github/Git e Github (Aula_01).md",
     "Jornada dos dados.md",
-    "Workshop - Git e Github/Git_Github/02_Git_Github (Aula_02).md",
-    "Workshop - Git e Github/Git_Github/01_Git_Github (Aula_01).md",
-    "Workshop - Git e Github/Comandos_GitBash/999_Comandos CD GitBash.md",
     "Workshop - Git e Github/Git_Github",
     "Workshop - Git e Github/Comandos_GitBash",
-    "Bootcamp Intensivo Python - (1-5)/pic.png",
-    "Bootcamp Intensivo Python - (1-5)/pic2.png",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/pic2.png",
     "Workshop - Git e Github/README.md",
     "Workshop - Git e Github.md",
     "Workshop - Git e Github",
-    "Bootcamp Intensivo Python - (1-5)",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)",
     "Bem-vindo.md",
     "crie um link.md"
   ]

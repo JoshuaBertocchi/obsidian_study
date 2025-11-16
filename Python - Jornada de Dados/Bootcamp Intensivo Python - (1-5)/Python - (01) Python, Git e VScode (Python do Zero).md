@@ -1,4 +1,4 @@
-## Bootcamp Aula 01 [[Jornada dos dados]]
+## Bootcamp Aula 01 ([[Jornada dos dados]])
 Bem-vindo ao material da Aula 01, focado no setup inicial das ferramentas essenciais para a programação em Python: Python, Git & Github, e VSCode.
 
 Se você está revisando ou não conseguiu acompanhar o primeiro vídeo no Youtube, este é o lugar certo para começar!
