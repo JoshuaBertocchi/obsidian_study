@@ -1,4 +1,4 @@
-# Introdução ao Git - Aula 01
+# Introdução ao Git - Aula 01 [[Jornada dos dados]]
 
 Bem-vindo ao workshop de introdução ao Git! Neste workshop, nosso objetivo é fornecer uma visão clara e prática sobre o uso do Git, ajudando você a aplicar essas habilidades em seus projetos de dados. O Git é uma ferramenta fundamental para o versionamento de código e colaboração em equipes de desenvolvimento, especialmente quando múltiplas pessoas estão trabalhando em um mesmo projeto.
 
@@ -747,3 +747,5 @@ end
 
 D --> |"git push"| E[Remote Repository];
 ```
+
+Próxima aula [[02_Git_Github (Aula_02)]]
