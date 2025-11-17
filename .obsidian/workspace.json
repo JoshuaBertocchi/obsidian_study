@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workshop - Git e Github/Comandos_GitBash/Comandos GitHub.md",
+                "file": "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (01) Python, Git e VScode (Python do Zero).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comandos GitHub"
+              "title": "Python - (01) Python, Git e VScode (Python do Zero)"
             }
           },
           {
@@ -179,10 +179,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "23839da63664d4bd",
+  "active": "ef3eb2a5465d82fc",
   "lastOpenFiles": [
     "Workshop - Git e Github/Comandos_GitBash/Comandos essenciais do Terminal (CD,LS...).md",
+    "Python - Jornada de Dados/Poetry e Pyenv/🐍 Gerenciamento de Ambiente Python — Poetry & Pyenv.md",
     "Workshop - Git e Github/Comandos_GitBash/Comandos GitHub.md",
+    "Python - Jornada de Dados/Poetry e Pyenv",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (01) Python, Git e VScode (Python do Zero).md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/pic.png",
     "Python - Jornada de Dados",
