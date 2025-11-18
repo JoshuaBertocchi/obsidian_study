@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Python - Jornada de Dados/Poetry e Pyenv/🐍 Gerenciamento de Ambiente Python — Poetry & Pyenv.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🐍 Gerenciamento de Ambiente Python — Poetry & Pyenv"
+            }
+          },
+          {
+            "id": "6661b0f805e41b7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (02) TypeError, TypeCheck, Type Conversion, Try except e if.md",
                 "mode": "source",
                 "source": false
@@ -22,16 +36,35 @@
             }
           },
           {
-            "id": "55857eeb51896001",
+            "id": "004c0d9829feb343",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Jornada dos dados.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jornada dos dados"
+            }
+          },
+          {
+            "id": "0e391807b684ff34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workshop - Git e Github/Comandos_GitBash/Comandos essenciais do Terminal (CD,LS...).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Comandos essenciais do Terminal (CD,LS...)"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -88,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 522.5
   },
   "right": {
     "id": "1e6343572fecabc2",
@@ -181,35 +214,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ef3eb2a5465d82fc",
+  "active": "0e391807b684ff34",
   "lastOpenFiles": [
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/5.png",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/4.png",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/3.png",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/2.png",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/1.png",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/5.png",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/4.png",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/3.png",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/2.png",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/1.png",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (01) Python, Git e VScode (Python do Zero).md",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (02) TypeError, TypeCheck, Type Conversion, Try except e if.md",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (02) Python, Git e VScode (Python do Zero).md",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/README.md",
-    "Workshop - Git e Github/Comandos_GitBash/Comandos GitHub.md",
-    "Workshop - Git e Github/Git_Github/Git e Github (Aula_02).md",
+    "Jornada dos dados.md",
     "Workshop - Git e Github/Git_Github/Git e Github (Aula_01).md",
     "Workshop - Git e Github/Comandos_GitBash/Comandos essenciais do Terminal (CD,LS...).md",
+    "Workshop - Git e Github/Comandos_GitBash/Comandos GitHub.md",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (02) TypeError, TypeCheck, Type Conversion, Try except e if.md",
     "Python - Jornada de Dados/Poetry e Pyenv/🐍 Gerenciamento de Ambiente Python — Poetry & Pyenv.md",
+    "Workshop - Git e Github/Git_Github/Git e Github (Aula_02).md",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (01) Python, Git e VScode (Python do Zero).md",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/5.png",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/4.png",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/3.png",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/2.png",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/1.png",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/5.png",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/4.png",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/3.png",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/2.png",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/1.png",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (02) Python, Git e VScode (Python do Zero).md",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/README.md",
     "Python - Jornada de Dados/Poetry e Pyenv",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/pic.png",
     "Python - Jornada de Dados",
     "Bootcamp Intensivo Python - (1-5)/Sem título.md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img",
-    "Jornada dos dados.md",
     "Workshop - Git e Github/Git_Github",
     "Workshop - Git e Github/Comandos_GitBash",
     "Workshop - Git e Github/README.md",

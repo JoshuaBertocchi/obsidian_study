@@ -1,4 +1,4 @@
-
+[[Python - (01) Python, Git e VScode (Python do Zero)]]
 Bem-vindo à segunda aula do bootcamp! 
 
 ![imagem_01](1.png)
@@ -63,11 +63,58 @@ Python suporta vários tipos de dados simples, tais como:
 #### Inteiros (`int`)
 
 1. Escreva um programa que soma dois números inteiros inseridos pelo usuário.
-2. Crie um programa que receba um número do usuário e calcule o resto da divisão desse número por 5.
-3. Desenvolva um programa que multiplique dois números fornecidos pelo usuário e mostre o resultado.
-4. Faça um programa que peça dois números inteiros e imprima a divisão inteira do primeiro pelo segundo.
-5. Escreva um programa que calcule o quadrado de um número fornecido pelo usuário.
+```python
+valor_01 = int(input("Valor 01: "))
+valor_02 = int(input("Valor 02: "))
+usuario_soma = valor_01 + valor_02
 
+print(f"A soma é {usuario_soma}")
+```
+2. Crie um programa que receba um número do usuário e calcule o resto da divisão desse número por 5.
+```python
+print(" Vamos calcular o resto da divisão! ")
+valor_01 = int(input("Valor 01: "))
+valor_02 = int(input("Valor 02: "))
+
+divisao = valor_01 / valor_02
+resto_divisao = valor_01 % valor_02
+
+if resto_divisao > 0:
+    print(f"O resultado da divisão é: {divisao} e o resto {resto_divisao}")
+  else:
+    print(f"O resultado da divisão é: {divisao}")
+
+```
+3. Desenvolva um programa que multiplique dois números fornecidos pelo usuário e mostre o resultado.
+```python
+print(" Vamos calcular o resto da multiplicacao! ")
+valor_01 = int(input("Valor 01: "))
+valor_02 = int(input("Valor 02: "))
+
+multiplicacao = valor_01 * valor_02
+
+print(f"O resultado da divisão é: {multiplicacao} ")
+```
+4. Faça um programa que peça dois números inteiros e imprima a divisão inteira do primeiro pelo segundo.
+```python
+
+valor_01 = int(input("Valor 01: "))
+valor_02 = int(input("Valor 02: "))
+
+divisao_inteira = valor_01 // valor_02
+
+print(f"O resultado da divisão é: {divisao_inteira} ")
+```
+5. Escreva um programa que calcule o quadrado de um número fornecido pelo usuário.
+```python
+
+valor_01 = int(input("Valor 01: "))
+valor_02 = int(input("Valor 02: "))
+
+divisao_inteira = valor_01 // valor_02
+
+print(f"O resultado da divisão é: {divisao_inteira} ")
+```
 #### Números de Ponto Flutuante (`float`)
 
 6. Escreva um programa que receba dois números flutuantes e realize sua adição.
