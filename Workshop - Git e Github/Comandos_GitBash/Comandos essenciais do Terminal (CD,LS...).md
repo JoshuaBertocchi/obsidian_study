@@ -1,4 +1,4 @@
-Anotações  [[Git e Github (Aula_02)| Git Github]]
+Anotações  [[Jornada dos dados| Terminal]]
  
 # 🟦 CD — Navegar entre pastas
 ```bash

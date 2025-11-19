@@ -381,7 +381,7 @@ resultado_not = not valor1
 print("Resultado do NOT lógico:", resultado_not)
 ```
 
-#### Exercício 19. Operador `==` (Igualdade)
+#### Exercício 19.  Operador == (Igualdade)
 
 ```python
 # Exemplo de entrada

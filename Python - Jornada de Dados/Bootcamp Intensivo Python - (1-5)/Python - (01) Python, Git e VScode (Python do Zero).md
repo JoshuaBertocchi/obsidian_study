@@ -72,7 +72,7 @@ Agora, vamos instalar o VSCode, um ambiente de desenvolvimento leve e altamente 
 * Siga as instruções de instalação de acordo com seu sistema operacional.
 * Após a instalação, abra o VSCode e familiarize-se com a interface.
 
-## 4. Instalação do Git
+## 4. Instalação do [[Comandos GitHub|Git]]
 
 Por fim, vamos configurar o Git para versionamento de código.
 
