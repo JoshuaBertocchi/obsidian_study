@@ -109,27 +109,90 @@ print(f"O resultado da divisão é: {divisao_inteira} ")
 ```python
 
 valor_01 = int(input("Valor 01: "))
-valor_02 = int(input("Valor 02: "))
 
-divisao_inteira = valor_01 // valor_02
+
+numero_quadro = valor_01 * valor_01
 
 print(f"O resultado da divisão é: {divisao_inteira} ")
 ```
 #### Números de Ponto Flutuante (`float`)
 
 6. Escreva um programa que receba dois números flutuantes e realize sua adição.
+	```python
+valor_01 = float(input("Valor 01: "))
+valor_02 = float(input("Valor 02: "))
+usuario_soma = valor_01 + valor_02
+
+print(f"A soma é {usuario_soma}")
+	```
 7. Crie um programa que calcule a média de dois números flutuantes fornecidos pelo usuário.
+```python
+  
+valor_01 = float(input("Valor 01: "))
+valor_02 = float(input("Valor 02: "))
+usuario_média = (valor_01 + valor_02)/ 2
+
+print(f"A Média é {usuario_média}")
+```
 8. Desenvolva um programa que calcule a potência de um número (base e expoente fornecidos pelo usuário).
+```python
+valor_01 = float(input("Valor 01: "))
+valor_02 = float(input("Potência 02: "))
+potencia = valor_01**valor_02
+
+print(f"Essa é o número digitado: {valor_01} Sua potência: {potencia}")
+```
 9. Faça um programa que converta a temperatura de Celsius para Fahrenheit.
+```python
+# Faça um programa que converta a temperatura de Celsius para Fahrenheit.
+
+valor_01 = float(input("Temperatura em C°: "))
+conversao = (valor_01*(9/5)) + 32
+
+print(f"Fahrenheit {conversao}°f")
+```
 10. Escreva um programa que calcule a área de um círculo, recebendo o raio como entrada.
+```python
+valor_01 = float(input("Raio do círculo: "))
+calculo = 3.4*(valor_01**2)
+
+
+print(f"Área: {calculo} cm")
+```
 
 #### Strings (`str`)
 
 11. Escreva um programa que receba uma string do usuário e a converta para maiúsculas.
+	```python
+	valor_01 = str(input("Fale algo: ")).upper()
+	print(valor_01)
+	```
 12. Crie um programa que receba o nome completo do usuário e imprima o nome com todas as letras minúsculas.
+	```python
+	valor_01 = str(input("Seu nome: ")).lower()
+	print(valor_01)
+	```
 13. Desenvolva um programa que peça ao usuário para inserir uma frase e, em seguida, imprima esta frase sem espaços em branco no início e no final.
+	```python
+	valor_01 = str(input("Seu nome: ")).strip()
+	print(valor_01)
+	```
 14. Faça um programa que peça ao usuário para digitar uma data no formato "dd/mm/aaaa" e, em seguida, imprima o dia, o mês e o ano separadamente.
+	```python
+	data = input("Digite uma data no formato dd/mm/aaaa: ")
+	dia, mes, ano = data.split("/")
+	print("Dia:", dia)
+	print("Mês:", mes)
+	print("Ano:", ano)
+	```
+
 15. Escreva um programa que concatene duas strings fornecidas pelo usuário.
+	```python
+	str1 = input("Digite a primeira frase ou palavra: ")
+	str2 = input("Digite a segunda frase ou palavra: ")
+	resultado = str1 + str2
+	print("Resultado da concatenação:", resultado)
+	```
 
 #### Booleanos (`bool`)
 
