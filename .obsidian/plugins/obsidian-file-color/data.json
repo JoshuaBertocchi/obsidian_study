@@ -26,6 +26,11 @@
       "id": "8aqtiI_-T-Q_UcvXxWLxv",
       "name": "Green",
       "value": "#00ff40"
+    },
+    {
+      "id": "DPj_GVynwfuIoc2lqleMo",
+      "name": "Padrão",
+      "value": "#aaaaaa"
     }
   ],
   "fileColors": [
@@ -39,11 +44,11 @@
     },
     {
       "path": "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (01) Python, Git e VScode (Python do Zero).md",
-      "color": "9Nas--4Lvz8uk-VjIygQQ"
+      "color": "DPj_GVynwfuIoc2lqleMo"
     },
     {
-      "path": "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (02) TypeError, TypeCheck, Type Conversion, Try except e if.md",
-      "color": "9Nas--4Lvz8uk-VjIygQQ"
+      "path": "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (02) Tipos primitivos.md",
+      "color": "DPj_GVynwfuIoc2lqleMo"
     },
     {
       "path": "Workshop - Git e Github/Git_Github/Git e Github (Aula_02).md",
@@ -60,6 +65,18 @@
     {
       "path": "Workshop - Git e Github/Git_Github/Git e Github (Aula_01).md",
       "color": "aCYx3fYI-7QpaeKB3GUXq"
+    },
+    {
+      "path": "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (03) TypeError, Type Check e Type Conversion em Python.md",
+      "color": "DPj_GVynwfuIoc2lqleMo"
+    },
+    {
+      "path": "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)",
+      "color": "9Nas--4Lvz8uk-VjIygQQ"
+    },
+    {
+      "path": "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img",
+      "color": "DPj_GVynwfuIoc2lqleMo"
     }
   ]
 }
