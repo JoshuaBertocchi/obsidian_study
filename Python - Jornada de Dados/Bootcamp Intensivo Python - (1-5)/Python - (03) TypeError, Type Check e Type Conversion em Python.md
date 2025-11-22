@@ -120,18 +120,80 @@ while True:
 
 Crie um programa que verifica se uma palavra ou frase é um palíndromo (lê-se igualmente de trás para frente, desconsiderando espaços e pontuações). Utilize `try-except` para garantir que a entrada seja uma string. Dica: Utilize a função `isinstance()` para verificar o tipo da entrada.
 
+```python
+
+palavra = input(str("Me informe a palavra: "))
+tranformar_lista = list(palavra.upper()) #Transforma a palavra em Lista
+#lista_invertida = list(palavra[::-1]).upper() #Cria uma lista invertida
+lista_invertida = list(reversed(palavra.upper())) #Cria uma lista invertida
+if  tranformar_lista == lista_invertida:
+    print(tranformar_lista, lista_invertida)
+    print(f"A palavra é polimorfica: {palavra}")
+else:
+    print('A palavra não se classifica como Polimórfica')
+```
 ### Exercício 23: Calculadora Simples
 
 Desenvolva uma calculadora simples que aceite duas entradas numéricas e um operador (+, -, *, /) do usuário. Use `try-except` para lidar com divisões por zero e entradas não numéricas. Utilize `if-elif-else` para realizar a operação matemática baseada no operador fornecido. Imprima o resultado ou uma mensagem de erro apropriada.
-
+```python
+try:
+    print("Digite os Valores ")
+    valor_01 = float(input("Valor 01: "))
+    valor_02 = float(input("Valor 02: "))
+    print("Qual será a operação?")
+    operacao = input(str("\nSoma: +\nMenos: -\nDivisão: /\nMultiplicação: *\nDigite o símbolo: "))
+    if operacao == "+":
+        soma = valor_01 + valor_02
+        print(f"Soma: {soma}")
+    elif operacao == "-":
+        diminuicao = valor_01 - valor_02
+        print(f"Diminuição: {diminuicao}")            
+    elif operacao == "/":
+        try:
+            divisao = valor_01 / valor_02
+            print(f"Divisão: {divisao}")
+        except ZeroDivisionError:
+            print("Não é possível divir por zero!")
+    elif operacao == "*":
+        Multiplicação = valor_01 * valor_02
+        print(f"Divisão: {Multiplicação}")
+    else:
+        print("Digite apenas o símbolo escolhido!")
+except ValueError as Error:
+    print("Digite apenas o números!")
+```
 ### Exercício 24: Classificador de Números
 
 Escreva um programa que solicite ao usuário para digitar um número. Utilize `try-except` para assegurar que a entrada seja numérica e utilize `if-elif-else` para classificar o número como "positivo", "negativo" ou "zero". Adicionalmente, identifique se o número é "par" ou "ímpar".
-
+```python
+try:
+    valor = int(input("Digite um valor: "))
+    if isinstance(valor,int):
+        if valor <= -1:
+            print(f"Valor é Negativo")
+        elif valor >= 1:
+            print(f"Valor Positivo")
+        else:  
+            print("Apenas ZERO!")
+except ValueError as e:
+    print(f"Digite apenas número\nErro: {e}".upper())
+```
 ### Exercício 25: Conversão de Tipo com Validação
 
 Crie um script que solicite ao usuário uma lista de números separados por vírgula. O programa deve converter a string de entrada em uma lista de números inteiros. Utilize `try-except` para tratar a conversão de cada número e validar que cada elemento da lista convertida é um inteiro. Se a conversão falhar ou um elemento não for um inteiro, imprima uma mensagem de erro. Se a conversão for bem-sucedida para todos os elementos, imprima a lista de inteiros.
 
+```python
+entrada_lista = input("Digite uma lista python com números: ")
+numeros_str = entrada_lista.split(",")
+numeros_int = []
+try:
+    for num in numeros_str:
+        # 01- Tirandos os espaços vázios. 2- Convertendo em Int 3- Adicionando a lista
+        numeros_int.append(int(num.strip()))  
+        print(f"Lista de inteiros: {numeros_int}")
+except ValueError:
+    print("Erro: certifique-se de que todos os elementos são números inteiros válidos.")
+```
 ## Exercícios Resolvidos
 
 ### Exercício 21: Conversor de Temperatura

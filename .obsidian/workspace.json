@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (02) Tipos primitivos.md",
+                "file": "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (03) TypeError, Type Check e Type Conversion em Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python - (02) Tipos primitivos"
+              "title": "Python - (03) TypeError, Type Check e Type Conversion em Python"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 215.5,
+    "collapsed": true
   },
   "right": {
     "id": "1e6343572fecabc2",
@@ -188,6 +189,7 @@
   },
   "active": "8f8141ecec1d391d",
   "lastOpenFiles": [
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (02) Tipos primitivos.md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (03) TypeError, Type Check e Type Conversion em Python.md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/README.md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/1.png",
@@ -196,7 +198,6 @@
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/3.png",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/2.png",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (02) Tipos primitivos.md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (01) Python, Git e VScode (Python do Zero).md",
     "Jornada dos dados.md",
     "Python - Jornada de Dados/Poetry e Pyenv/🐍 Gerenciamento de Ambiente Python — Poetry & Pyenv.md",
