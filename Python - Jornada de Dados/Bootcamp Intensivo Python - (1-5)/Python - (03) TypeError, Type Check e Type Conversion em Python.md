@@ -1,4 +1,4 @@
-Anotações: [[Python - (02) Tipos primitivos|Aula 02]]
+Anotações: [[Python - (02) Tipos primitivos|Aula 02 ]] #python 
 
 # TypeError, Type Check e Type Conversion em Python
 

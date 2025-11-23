@@ -1,4 +1,4 @@
-[[Jornada dos dados]]
+[[Jornada dos dados]]  #terminal
 ---
 
 # 🔵 PYENV — Gerenciar versões do Python

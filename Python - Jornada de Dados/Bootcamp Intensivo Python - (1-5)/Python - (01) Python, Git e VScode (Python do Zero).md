@@ -1,4 +1,4 @@
-## Bootcamp Aula 01 ([[Jornada dos dados]])
+## Bootcamp Aula 01 ([[Jornada dos dados]]) 
 Bem-vindo ao material da Aula 01, focado no setup inicial das ferramentas essenciais para a programação em Python: Python, Git & Github, e VSCode.
 
 Se você está revisando ou não conseguiu acompanhar o primeiro vídeo no Youtube, este é o lugar certo para começar!
@@ -72,7 +72,7 @@ Agora, vamos instalar o VSCode, um ambiente de desenvolvimento leve e altamente 
 * Siga as instruções de instalação de acordo com seu sistema operacional.
 * Após a instalação, abra o VSCode e familiarize-se com a interface.
 
-## 4. Instalação do [[Comandos GitHub|Git]]
+## 4. Instalação do Git
 
 Por fim, vamos configurar o Git para versionamento de código.
 
@@ -274,8 +274,5 @@ Isso ajudará a consolidar seu conhecimento sobre o Git e a familiarizar-se com 
 ## Conclusão
 
 Nesta aula, aprendemos a configurar nosso ambiente de desenvolvimento para começar a programar em Python. Com o Python, o VSCode, e o Git instalados e configurados, estamos prontos para mergulhar mais fundo no mundo da programação! Nos vemos na próxima aula!
-
-
-#github
-#git 
+ 
 #python

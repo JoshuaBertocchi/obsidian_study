@@ -592,3 +592,6 @@ O `README.md` é um arquivo de texto, geralmente escrito em formato Markdown, qu
 
 7. **Referências e Créditos**:
    - Agradecimentos e links para recursos, bibliotecas ou pessoas que contribuíram para o projeto.
+
+#git 
+#github
