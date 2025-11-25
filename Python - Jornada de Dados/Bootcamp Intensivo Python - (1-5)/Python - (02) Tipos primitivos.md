@@ -1,4 +1,4 @@
-[[Python - (01) Python, Git e VScode (Python do Zero)]]
+[[Python - (01) Python, Git e VScode (Python do Zero)]] #python
 Bem-vindo à segunda aula do bootcamp! 
 
 ![imagem_01](1.png)
