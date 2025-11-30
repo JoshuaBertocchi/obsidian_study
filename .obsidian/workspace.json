@@ -27,16 +27,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python - Jornada de Dados/Ambiente Virtual - Configurações/Ambiente Virtual (.venv) - Comandos.md",
+                "file": "Python - Jornada de Dados/Ambiente Virtual - Configurações/Poetry - Comandos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ambiente Virtual (.venv) - Comandos"
+              "title": "Poetry - Comandos"
+            }
+          },
+          {
+            "id": "04682c989bbc628a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -59,7 +71,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -93,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 458.5
   },
   "right": {
     "id": "1e6343572fecabc2",
@@ -175,27 +187,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Criar nova base": false,
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "36fca3701438c149",
+  "active": "04682c989bbc628a",
   "lastOpenFiles": [
     "Python - Jornada de Dados/Ambiente Virtual - Configurações/Gerenciamento de Ambiente Python — Poetry & Pyenv.md",
     "Python - Jornada de Dados/Ambiente Virtual - Configurações/Ambiente Virtual (.venv) - Comandos.md",
-    "Python - Jornada de Dados/Ambiente Virtual - Configurações/Poetry - Comandos.md",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/(is) Funções e Métodos de Verificação em Python.md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (04) DEBUG, IF, FOR, While, Listas e Dicionários em Python.md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (03) TypeError, Type Check e Type Conversion em Python.md",
+    "Python - Jornada de Dados/Ambiente Virtual - Configurações/Poetry - Comandos.md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (02) Tipos primitivos.md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (01) Python, Git e VScode (Python do Zero).md",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/(is) Funções e Métodos de Verificação em Python.md",
     "Workshop - Git e Github/Comandos_GitBash/Comandos essenciais do Terminal (CD,LS...).md",
     "Workshop - Git e Github/Comandos_GitBash/Comandos GitHub.md",
     "Workshop - Git e Github/Git_Github/Git e Github (Aula_01).md",
