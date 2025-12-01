@@ -11,10 +11,14 @@
             "id": "edac26460486e30f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Python - Jornada de Dados/Ambiente Virtual - Configurações/Ambiente Virtual (.venv) - Comandos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ambiente Virtual (.venv) - Comandos"
             }
           },
           {
@@ -197,12 +201,16 @@
   },
   "active": "edac26460486e30f",
   "lastOpenFiles": [
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - Mais sobre listas.md",
+    "Python - Jornada de Dados/Ambiente Virtual - Configurações/Gerenciamento de Ambiente.md",
+    "Python - Jornada de Dados/Ambiente Virtual - Configurações/Gerenciamento de Ambiente Python — Poetry & Pyenv.md",
+    "Python - Jornada de Dados/Ambiente Virtual - Configurações/Poetry - Comandos.md",
+    "Python - Jornada de Dados/Ambiente Virtual - Configurações/Ambiente Virtual (.venv) - Comandos.md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (05) Type hint, Tipos complexos (Dicionários vs DataFrames Vs Tabelas Vs Excel) e Funções.md",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/(is) Funções e Métodos de Verificação em Python.md",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - Mais sobre listas.md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (04) DEBUG, IF, FOR, While, Listas e Dicionários em Python.md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (02) Tipos primitivos.md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (01) Python, Git e VScode (Python do Zero).md",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/(is) Funções e Métodos de Verificação em Python.md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (03) TypeError, Type Check e Type Conversion em Python.md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/7.png",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/6.webp",
@@ -221,11 +229,7 @@
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (05)",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/P",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Nova pasta",
-    "Python - Jornada de Dados/Ambiente Virtual - Configurações/Ambiente Virtual (.venv) - Comandos.md",
-    "Python - Jornada de Dados/Ambiente Virtual - Configurações/Gerenciamento de Ambiente Python — Poetry & Pyenv.md",
     "Workshop - Git e Github/Comandos_GitBash/Comandos essenciais do Terminal (CD,LS...).md",
-    "Python - Jornada de Dados/Ambiente Virtual - Configurações/Poetry - Comandos.md",
-    "Python - Jornada de Dados/Ambiente Virtual - Configurações/Gerenciamento de Ambiente.md",
     "Jornada dos dados.md",
     "Workshop - Git e Github/Comandos_GitBash/Comandos GitHub.md",
     "Workshop - Git e Github/Git_Github/Git e Github (Aula_01).md",
