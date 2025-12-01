@@ -1,4 +1,4 @@
-Anotações  [[Jornada dos dados| Terminal]] #terminal 
+Anotações[[Gerenciamento de Ambiente|.]] #terminal 
  
 # 🟦 CD — Navegar entre pastas
 ```bash

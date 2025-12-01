@@ -8,35 +8,44 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f8141ecec1d391d",
+            "id": "edac26460486e30f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python - Jornada de Dados/Ambiente Virtual - Configurações/Gerenciamento de Ambiente Python — Poetry & Pyenv.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gerenciamento de Ambiente Python — Poetry & Pyenv"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           },
           {
-            "id": "36fca3701438c149",
+            "id": "942debe1e714d9b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python - Jornada de Dados/Ambiente Virtual - Configurações/Ambiente Virtual (.venv) - Comandos.md",
+                "file": "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (03) TypeError, Type Check e Type Conversion em Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ambiente Virtual (.venv) - Comandos"
+              "title": "Python - (03) TypeError, Type Check e Type Conversion em Python"
+            }
+          },
+          {
+            "id": "ef71eaa56cf028ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - Mais sobre listas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python - Mais sobre listas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 256.5
   },
   "right": {
     "id": "1e6343572fecabc2",
@@ -186,43 +195,49 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "36fca3701438c149",
+  "active": "edac26460486e30f",
   "lastOpenFiles": [
-    "Python - Jornada de Dados/Ambiente Virtual - Configurações/Gerenciamento de Ambiente Python — Poetry & Pyenv.md",
-    "Python - Jornada de Dados/Ambiente Virtual - Configurações/Ambiente Virtual (.venv) - Comandos.md",
-    "Python - Jornada de Dados/Ambiente Virtual - Configurações/Poetry - Comandos.md",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - Mais sobre listas.md",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (05) Type hint, Tipos complexos (Dicionários vs DataFrames Vs Tabelas Vs Excel) e Funções.md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (04) DEBUG, IF, FOR, While, Listas e Dicionários em Python.md",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (03) TypeError, Type Check e Type Conversion em Python.md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (02) Tipos primitivos.md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (01) Python, Git e VScode (Python do Zero).md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/(is) Funções e Métodos de Verificação em Python.md",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (03) TypeError, Type Check e Type Conversion em Python.md",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/7.png",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/6.webp",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/6.jpeg",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/5.png",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/5.jpeg",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/4.png",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/4.jpg",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/3.png",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/3.jpg",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/2.png",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pic",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/README.md",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (05) Type hint, Tipos complexos (Dicionários vs DataFrames Vs Tabelas Vs Excel)",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (05)",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/P",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Nova pasta",
+    "Python - Jornada de Dados/Ambiente Virtual - Configurações/Ambiente Virtual (.venv) - Comandos.md",
+    "Python - Jornada de Dados/Ambiente Virtual - Configurações/Gerenciamento de Ambiente Python — Poetry & Pyenv.md",
     "Workshop - Git e Github/Comandos_GitBash/Comandos essenciais do Terminal (CD,LS...).md",
+    "Python - Jornada de Dados/Ambiente Virtual - Configurações/Poetry - Comandos.md",
+    "Python - Jornada de Dados/Ambiente Virtual - Configurações/Gerenciamento de Ambiente.md",
+    "Jornada dos dados.md",
     "Workshop - Git e Github/Comandos_GitBash/Comandos GitHub.md",
     "Workshop - Git e Github/Git_Github/Git e Github (Aula_01).md",
     "Workshop - Git e Github/Git_Github/Git e Github (Aula_02).md",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/7.png",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/6.webp",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/1.png",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/5.png",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/4.png",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/3.png",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/2.png",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics",
-    "Jornada dos dados.md",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/5.png",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/4.png",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img/3.png",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (02) Python, Git e VScode (Python do Zero).md",
     "Python - Jornada de Dados/Ambiente Virtual - Configurações",
     "Python - Jornada de Dados",
     "Bootcamp Intensivo Python - (1-5)/Sem título.md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img",
     "Workshop - Git e Github/Git_Github",
-    "Workshop - Git e Github/Comandos_GitBash",
     "Workshop - Git e Github/README.md",
     "Workshop - Git e Github.md",
-    "Workshop - Git e Github",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)",
     "Bem-vindo.md",
     "crie um link.md"
   ]
