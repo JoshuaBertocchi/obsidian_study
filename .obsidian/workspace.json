@@ -4,49 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b726451fb47e58f7",
+        "id": "ac604ffdf3001773",
         "type": "tabs",
         "children": [
           {
-            "id": "edac26460486e30f",
+            "id": "6c433173ea7a07d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python - Jornada de Dados/Ambiente Virtual - Configurações/Ambiente Virtual (.venv) - Comandos.md",
+                "file": "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula 7 - Operadores Aritméticos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ambiente Virtual (.venv) - Comandos"
-            }
-          },
-          {
-            "id": "942debe1e714d9b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (03) TypeError, Type Check e Type Conversion em Python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Python - (03) TypeError, Type Check e Type Conversion em Python"
-            }
-          },
-          {
-            "id": "ef71eaa56cf028ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - Mais sobre listas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Python - Mais sobre listas"
+              "title": "Aula 7 - Operadores Aritméticos"
             }
           }
         ]
@@ -106,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "1e6343572fecabc2",
@@ -199,50 +172,53 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "edac26460486e30f",
+  "active": "6c433173ea7a07d1",
   "lastOpenFiles": [
+    "Python - Gustavo Guanabara (Curso em Vídeo)/00_img/print_aula_cursoemvideo07.png",
+    "Python - Gustavo Guanabara (Curso em Vídeo)/00_img/print_aula_cursoemvideo06.png",
+    "Python - Gustavo Guanabara (Curso em Vídeo)/00_img/print_aula_cursoemvideo05.png",
+    "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula 1 à 5 - Primeiros comandos em Python.md",
+    "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula 6 - Tipos Primitivos.md",
+    "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula 7 - Operadores Aritméticos.md",
+    "Python - Gustavo Guanabara (Curso em Vídeo)/00_img/print_aula_cursoemvideo04.png",
+    "Python - Gustavo Guanabara (Curso em Vídeo)/00_img/print_aula_cursoemvideo03.png",
+    "Python - Gustavo Guanabara (Curso em Vídeo)/00_img/print_aula_cursoemvideo02.png",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (01) Python, Git e VScode (Python do Zero).md",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/(is) Funções e Métodos de Verificação em Python.md",
+    "Python - Gustavo Guanabara (Curso em Vídeo)/00_img/print_aula_cursoemvideo01.png",
+    "Python - Gustavo Guanabara (Curso em Vídeo)/00_img.md",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (05) Type hint, Tipos complexos (Dicionários vs DataFrames Vs Tabelas Vs Excel) e Funções.md",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (02) Tipos primitivos.md",
+    "Python - Jornada de Dados/Ambiente Virtual - Configurações/Ambiente Virtual (.venv) - Comandos.md",
     "Python - Jornada de Dados/Ambiente Virtual - Configurações/Gerenciamento de Ambiente.md",
     "Python - Jornada de Dados/Ambiente Virtual - Configurações/Gerenciamento de Ambiente Python — Poetry & Pyenv.md",
+    "Python - Jornada de Dados/Ambiente Virtual - Configurações/LISTA DE COMANDOS PARA ABRIR APLICATIVOS (CMD).md",
     "Python - Jornada de Dados/Ambiente Virtual - Configurações/Poetry - Comandos.md",
-    "Python - Jornada de Dados/Ambiente Virtual - Configurações/Ambiente Virtual (.venv) - Comandos.md",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (05) Type hint, Tipos complexos (Dicionários vs DataFrames Vs Tabelas Vs Excel) e Funções.md",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/(is) Funções e Métodos de Verificação em Python.md",
+    "Workshop - Git e Github/Comandos_GitBash/Comandos essenciais do Terminal (CD,LS...).md",
+    "Python - Gustavo Guanabara (Curso em Vídeo)/print_aula_cursoemvideo01.png",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - Mais sobre listas.md",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (04) DEBUG, IF, FOR, While, Listas e Dicionários em Python.md",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (02) Tipos primitivos.md",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (01) Python, Git e VScode (Python do Zero).md",
+    "Workshop - Git e Github/Git_Github/Git e Github (Aula_01).md",
+    "Workshop - Git e Github/Comandos_GitBash/Comandos GitHub.md",
+    "Python - Gustavo Guanabara (Curso em Vídeo)/00_img",
+    "Python - Gustavo Guanabara (Curso em Vídeo)/img",
+    "Python - Gustavo Guanabara (Curso em Vídeo)/Nova pasta",
+    "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python",
+    "Python - Gustavo Guanabara (Curso em Vídeo)/Sem título.md",
+    "Python - Gustavo Guanabara (Curso em Vídeo)",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (03) TypeError, Type Check e Type Conversion em Python.md",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (04) DEBUG, IF, FOR, While, Listas e Dicionários em Python.md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/7.png",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/6.webp",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/6.jpeg",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/5.png",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/5.jpeg",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/4.png",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/4.jpg",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/3.png",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/3.jpg",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics/2.png",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pic",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/README.md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (05) Type hint, Tipos complexos (Dicionários vs DataFrames Vs Tabelas Vs Excel)",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (05)",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/P",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Nova pasta",
-    "Workshop - Git e Github/Comandos_GitBash/Comandos essenciais do Terminal (CD,LS...).md",
     "Jornada dos dados.md",
-    "Workshop - Git e Github/Comandos_GitBash/Comandos GitHub.md",
-    "Workshop - Git e Github/Git_Github/Git e Github (Aula_01).md",
     "Workshop - Git e Github/Git_Github/Git e Github (Aula_02).md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (02) Python, Git e VScode (Python do Zero).md",
-    "Python - Jornada de Dados/Ambiente Virtual - Configurações",
-    "Python - Jornada de Dados",
-    "Bootcamp Intensivo Python - (1-5)/Sem título.md",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/99_img",
-    "Workshop - Git e Github/Git_Github",
-    "Workshop - Git e Github/README.md",
-    "Workshop - Git e Github.md",
-    "Bem-vindo.md",
-    "crie um link.md"
+    "Bootcamp Intensivo Python - (1-5)/Sem título.md"
   ]
 }
