@@ -1,4 +1,4 @@
-
+[[Python - (03) TypeError, Type Check e Type Conversion em Python|Aula anterior]]
 ![imagem](print_aula_cursoemvideo01.png)
 -Forma correta de se escrever Texto no Python
 ![imagem](print_aula_cursoemvideo02.png)

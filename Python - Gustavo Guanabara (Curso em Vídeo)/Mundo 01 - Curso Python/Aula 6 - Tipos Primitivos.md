@@ -1,3 +1,5 @@
+[[Aula 1 à 5 - Primeiros comandos em Python|Aula anterior]]
+
 O que é Tipos Primitivos?
 
 - **Números inteiro(int)**: 1, 7, 23, -453, 3453

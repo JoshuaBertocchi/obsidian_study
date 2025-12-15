@@ -1,3 +1,4 @@
+[[Gerenciamento de Ambiente|Aula anterior]]
 # ✅ **LISTA DE COMANDOS PARA ABRIR APLICATIVOS (CMD)**
 
 ## 🗂 **Explorador de Arquivos**
