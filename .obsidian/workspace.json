@@ -67,10 +67,14 @@
             "id": "5fdd913ea05e513c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "SQL e Analytics - Jornada de Dados/Bootcamp Intensivo SQL 1-5/Aula 01 - Instanlando PostgreSQL e criando nosso primeiro banco/Aula - 01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula - 01"
             }
           },
           {
@@ -86,23 +90,9 @@
               "icon": "lucide-file",
               "title": "Aula 6 - Tipos Primitivos"
             }
-          },
-          {
-            "id": "59f87ed017abc749",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula_10 Estrutura Básica de Condicionais.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aula_10 Estrutura Básica de Condicionais"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -252,8 +242,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a2217dff8196c0b6",
+  "active": "23839da63664d4bd",
   "lastOpenFiles": [
+    "Workshop - Git e Github/Comandos_GitBash/Comandos essenciais do Terminal (CD,LS...).md",
+    "SQL e Analytics - Jornada de Dados/Bootcamp Intensivo SQL 1-5/Aula 01 - Instanlando PostgreSQL e criando nosso primeiro banco/Aula - 01.md",
+    "SQL e Analytics - Jornada de Dados/Bootcamp Intensivo SQL 1-5/Aula 01 - Instanlando PostgreSQL e criando nosso primeiro banco",
+    "SQL e Analytics - Jornada de Dados/Bootcamp Intensivo SQL 1-5",
+    "SQL e Analytics - Jornada de Dados",
+    "Workshop - Git e Github/Comandos_GitBash/Comandos GitHub.md",
+    "Workshop - Git e Github/Git_Github/Git e Github (Aula_01).md",
+    "SLQ e Analytics - Jornada de Dados",
+    "Dados",
+    "de",
+    "Jornada",
+    "-",
+    "Analytics",
+    "e",
     "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula_10 Estrutura Básica de Condicionais.md",
     "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula 6 - Tipos Primitivos.md",
     "Python - Jornada de Dados/Ambiente Virtual - Configurações/LISTA DE COMANDOS PARA ABRIR APLICATIVOS (CMD).md",
@@ -263,8 +267,6 @@
     "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula_09 Manipulando Texto.md",
     "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula_08 Utilizando Módulos(Biblioteca).md",
     "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula_7 Operadores Aritméticos.md",
-    "Workshop - Git e Github/Comandos_GitBash/Comandos GitHub.md",
-    "Workshop - Git e Github/Git_Github/Git e Github (Aula_01).md",
     "Python - Gustavo Guanabara (Curso em Vídeo)/00_img/image 18 1.png",
     "Python - Gustavo Guanabara (Curso em Vídeo)/00_img/image 20.png",
     "Python - Gustavo Guanabara (Curso em Vídeo)/00_img/image 43.png",
@@ -275,7 +277,6 @@
     "Python - Gustavo Guanabara (Curso em Vídeo)/00_img/image 38.png",
     "Python - Gustavo Guanabara (Curso em Vídeo)/00_img/image 37.png",
     "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula 7 - Operadores Aritméticos.md",
-    "Workshop - Git e Github/Comandos_GitBash/Comandos essenciais do Terminal (CD,LS...).md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (01) Python, Git e VScode (Python do Zero).md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/(is) Funções e Métodos de Verificação em Python.md",
     "Python - Gustavo Guanabara (Curso em Vídeo)/00_img.md",
@@ -286,18 +287,8 @@
     "Python - Jornada de Dados/Ambiente Virtual - Configurações/Gerenciamento de Ambiente Python — Poetry & Pyenv.md",
     "Python - Jornada de Dados/Ambiente Virtual - Configurações/Poetry - Comandos.md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - Mais sobre listas.md",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/00_img",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/img",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/Nova pasta",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python",
     "Python - Gustavo Guanabara (Curso em Vídeo)/Sem título.md",
-    "Python - Gustavo Guanabara (Curso em Vídeo)",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (03) TypeError, Type Check e Type Conversion em Python.md",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (04) DEBUG, IF, FOR, While, Listas e Dicionários em Python.md",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pics",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/pic",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (05) Type hint, Tipos complexos (Dicionários vs DataFrames Vs Tabelas Vs Excel)",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (05)",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/P"
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (04) DEBUG, IF, FOR, While, Listas e Dicionários em Python.md"
   ]
 }

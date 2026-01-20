@@ -1,4 +1,3 @@
-Anotações  [[Git e Github (Aula_02)| Git Github]]
 # 🐙 Guia Completo de Git & GitHub
 
 ## 📌 1. Configuração inicial (uma vez por máquina)
