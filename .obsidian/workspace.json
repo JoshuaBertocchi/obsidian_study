@@ -8,76 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c433173ea7a07d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula_08 Utilizando Módulos(Biblioteca).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aula_08 Utilizando Módulos(Biblioteca)"
-            }
-          },
-          {
-            "id": "f23f5f73af93710e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula_10 Estrutura Básica de Condicionais.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aula_10 Estrutura Básica de Condicionais"
-            }
-          },
-          {
-            "id": "fec1f143e0b477b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula 1 à 5 - Primeiros comandos em Python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aula 1 à 5 - Primeiros comandos em Python"
-            }
-          },
-          {
-            "id": "b2281a83f535199a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python - Jornada de Dados/Ambiente Virtual - Configurações/LISTA DE COMANDOS PARA ABRIR APLICATIVOS (CMD).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LISTA DE COMANDOS PARA ABRIR APLICATIVOS (CMD)"
-            }
-          },
-          {
-            "id": "5fdd913ea05e513c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL e Analytics - Jornada de Dados/Bootcamp Intensivo SQL 1-5/Aula 01 - Instanlando PostgreSQL e criando nosso primeiro banco/Aula - 01.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aula - 01"
-            }
-          },
-          {
             "id": "a2217dff8196c0b6",
             "type": "leaf",
             "state": {
@@ -90,9 +20,23 @@
               "icon": "lucide-file",
               "title": "Aula 6 - Tipos Primitivos"
             }
+          },
+          {
+            "id": "6910974f670d9b01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL e Analytics - Jornada de Dados/Bootcamp Intensivo SQL 1-5/Aula 02 - Nossos primeiros comandos SQL usando DQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 02 - Nossos primeiros comandos SQL usando DQL"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,10 +186,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "23839da63664d4bd",
+  "active": "6910974f670d9b01",
   "lastOpenFiles": [
+    "SQL e Analytics - Jornada de Dados/Bootcamp Intensivo SQL 1-5/Aula 01 - Instanlando PostgreSQL e criando nosso primeiro banco.md",
+    "SQL e Analytics - Jornada de Dados/Bootcamp Intensivo SQL 1-5/Aula 02 - Nossos primeiros comandos SQL usando DQL.md",
+    "SQL e Analytics - Jornada de Dados/Bootcamp Intensivo SQL 1-5/README.md",
+    "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula 6 - Tipos Primitivos.md",
+    "Python - Jornada de Dados/Ambiente Virtual - Configurações/LISTA DE COMANDOS PARA ABRIR APLICATIVOS (CMD).md",
+    "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula 1 à 5 - Primeiros comandos em Python.md",
+    "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula_10 Estrutura Básica de Condicionais.md",
     "Workshop - Git e Github/Comandos_GitBash/Comandos essenciais do Terminal (CD,LS...).md",
-    "SQL e Analytics - Jornada de Dados/Bootcamp Intensivo SQL 1-5/Aula 01 - Instanlando PostgreSQL e criando nosso primeiro banco/Aula - 01.md",
     "SQL e Analytics - Jornada de Dados/Bootcamp Intensivo SQL 1-5/Aula 01 - Instanlando PostgreSQL e criando nosso primeiro banco",
     "SQL e Analytics - Jornada de Dados/Bootcamp Intensivo SQL 1-5",
     "SQL e Analytics - Jornada de Dados",
@@ -258,10 +208,6 @@
     "-",
     "Analytics",
     "e",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula_10 Estrutura Básica de Condicionais.md",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula 6 - Tipos Primitivos.md",
-    "Python - Jornada de Dados/Ambiente Virtual - Configurações/LISTA DE COMANDOS PARA ABRIR APLICATIVOS (CMD).md",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula 1 à 5 - Primeiros comandos em Python.md",
     "Python - Gustavo Guanabara (Curso em Vídeo)/00_img/3df6ccb2-3e12-4a0f-b363-c2e185ce8fe5.png",
     "Workshop - Git e Github/Git_Github/Git e Github (Aula_02).md",
     "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula_09 Manipulando Texto.md",
@@ -287,8 +233,6 @@
     "Python - Jornada de Dados/Ambiente Virtual - Configurações/Gerenciamento de Ambiente Python — Poetry & Pyenv.md",
     "Python - Jornada de Dados/Ambiente Virtual - Configurações/Poetry - Comandos.md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - Mais sobre listas.md",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/Sem título.md",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (03) TypeError, Type Check e Type Conversion em Python.md",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (04) DEBUG, IF, FOR, While, Listas e Dicionários em Python.md"
+    "Python - Gustavo Guanabara (Curso em Vídeo)/Sem título.md"
   ]
 }
