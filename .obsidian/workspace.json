@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "2e05624acc4ac03b",
+    "id": "495912338f03361b",
     "type": "split",
     "children": [
       {
-        "id": "ac604ffdf3001773",
+        "id": "33299728f13226a9",
         "type": "tabs",
         "children": [
           {
-            "id": "a2217dff8196c0b6",
+            "id": "0381bbbb9545f807",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula 6 - Tipos Primitivos.md",
+                "file": "Docker - Infra/DOCKER 🐳.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 6 - Tipos Primitivos"
-            }
-          },
-          {
-            "id": "6910974f670d9b01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL e Analytics - Jornada de Dados/Bootcamp Intensivo SQL 1-5/Aula 02 - Nossos primeiros comandos SQL usando DQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aula 02 - Nossos primeiros comandos SQL usando DQL"
+              "title": "DOCKER 🐳"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "67858627bf5f8cf3",
+    "id": "ddfa6f5f70db35cd",
     "type": "split",
     "children": [
       {
-        "id": "7c22db7a8070a23c",
+        "id": "dafa8e2be6a2819a",
         "type": "tabs",
         "children": [
           {
-            "id": "23839da63664d4bd",
+            "id": "28af952b17db52b4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +48,7 @@
             }
           },
           {
-            "id": "40b6876b85fb2624",
+            "id": "da5ca728ea6e7666",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "2fb020976f07e46f",
+            "id": "0635c29620fa2fa1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300
   },
   "right": {
-    "id": "1e6343572fecabc2",
+    "id": "4d6ff28e78b16523",
     "type": "split",
     "children": [
       {
-        "id": "e285473637e8df79",
+        "id": "4dee9bb9baa517c6",
         "type": "tabs",
         "children": [
           {
-            "id": "893ac9f1e1464abd",
+            "id": "4e0c5702567fc70e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (04) DEBUG, IF, FOR, While, Listas e Dicionários em Python.md",
+                "file": "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (05) Type hint, Tipos complexos (Dicionários vs DataFrames Vs Tabelas Vs Excel) e Funções.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Python - (04) DEBUG, IF, FOR, While, Listas e Dicionários em Python"
+              "title": "Links inversos para Python - (05) Type hint, Tipos complexos (Dicionários vs DataFrames Vs Tabelas Vs Excel) e Funções"
             }
           },
           {
-            "id": "727cadf0de705f02",
+            "id": "79df1965ad953d8b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workshop - Git e Github/01_Git_Github (Aula_01).md",
+                "file": "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (05) Type hint, Tipos complexos (Dicionários vs DataFrames Vs Tabelas Vs Excel) e Funções.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para 01_Git_Github (Aula_01)"
+              "title": "Links de saída para Python - (05) Type hint, Tipos complexos (Dicionários vs DataFrames Vs Tabelas Vs Excel) e Funções"
             }
           },
           {
-            "id": "ac214b6535fd2c84",
+            "id": "74eee1b6add5dd08",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,22 +133,36 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
-            "id": "76a907326cc9d123",
+            "id": "8e36385e80fab690",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "ca006843de7a9628",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workshop - Git e Github/01_Git_Github (Aula_01).md",
+                "file": "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (05) Type hint, Tipos complexos (Dicionários vs DataFrames Vs Tabelas Vs Excel) e Funções.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 01_Git_Github (Aula_01)"
+              "title": "Sumário de Python - (05) Type hint, Tipos complexos (Dicionários vs DataFrames Vs Tabelas Vs Excel) e Funções"
             }
           }
         ]
@@ -175,64 +174,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Criar nova base": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6910974f670d9b01",
+  "active": "0381bbbb9545f807",
   "lastOpenFiles": [
-    "SQL e Analytics - Jornada de Dados/Bootcamp Intensivo SQL 1-5/Aula 01 - Instanlando PostgreSQL e criando nosso primeiro banco.md",
-    "SQL e Analytics - Jornada de Dados/Bootcamp Intensivo SQL 1-5/Aula 02 - Nossos primeiros comandos SQL usando DQL.md",
-    "SQL e Analytics - Jornada de Dados/Bootcamp Intensivo SQL 1-5/README.md",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula 6 - Tipos Primitivos.md",
-    "Python - Jornada de Dados/Ambiente Virtual - Configurações/LISTA DE COMANDOS PARA ABRIR APLICATIVOS (CMD).md",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula 1 à 5 - Primeiros comandos em Python.md",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula_10 Estrutura Básica de Condicionais.md",
+    "Python - lambda.md",
+    "Jornada dos dados.md",
+    "Docker - Infra/DOCKER 🐳.md",
+    "teste.md",
+    "Docker - Infra/apostila_docker.md",
     "Workshop - Git e Github/Comandos_GitBash/Comandos essenciais do Terminal (CD,LS...).md",
-    "SQL e Analytics - Jornada de Dados/Bootcamp Intensivo SQL 1-5/Aula 01 - Instanlando PostgreSQL e criando nosso primeiro banco",
-    "SQL e Analytics - Jornada de Dados/Bootcamp Intensivo SQL 1-5",
-    "SQL e Analytics - Jornada de Dados",
+    "Docker - Infra",
     "Workshop - Git e Github/Comandos_GitBash/Comandos GitHub.md",
-    "Workshop - Git e Github/Git_Github/Git e Github (Aula_01).md",
-    "SLQ e Analytics - Jornada de Dados",
-    "Dados",
-    "de",
-    "Jornada",
-    "-",
-    "Analytics",
-    "e",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/00_img/3df6ccb2-3e12-4a0f-b363-c2e185ce8fe5.png",
-    "Workshop - Git e Github/Git_Github/Git e Github (Aula_02).md",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula_09 Manipulando Texto.md",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula_08 Utilizando Módulos(Biblioteca).md",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula_7 Operadores Aritméticos.md",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/00_img/image 18 1.png",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/00_img/image 20.png",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/00_img/image 43.png",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/00_img/image 42.png",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/00_img/image 41.png",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/00_img/image 40.png",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/00_img/image 39.png",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/00_img/image 38.png",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/00_img/image 37.png",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/Mundo 01 - Curso Python/Aula 7 - Operadores Aritméticos.md",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (01) Python, Git e VScode (Python do Zero).md",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/(is) Funções e Métodos de Verificação em Python.md",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/00_img.md",
     "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (05) Type hint, Tipos complexos (Dicionários vs DataFrames Vs Tabelas Vs Excel) e Funções.md",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (02) Tipos primitivos.md",
-    "Python - Jornada de Dados/Ambiente Virtual - Configurações/Ambiente Virtual (.venv) - Comandos.md",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (04) DEBUG, IF, FOR, While, Listas e Dicionários em Python.md",
+    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - (01) Python, Git e VScode (Python do Zero).md",
     "Python - Jornada de Dados/Ambiente Virtual - Configurações/Gerenciamento de Ambiente.md",
-    "Python - Jornada de Dados/Ambiente Virtual - Configurações/Gerenciamento de Ambiente Python — Poetry & Pyenv.md",
-    "Python - Jornada de Dados/Ambiente Virtual - Configurações/Poetry - Comandos.md",
-    "Python - Jornada de Dados/Bootcamp Intensivo Python - (1-5)/Python - Mais sobre listas.md",
-    "Python - Gustavo Guanabara (Curso em Vídeo)/Sem título.md"
+    "Python - Jornada de Dados/Ambiente Virtual - Configurações/Ambiente Virtual (.venv) - Comandos.md",
+    "SQL e Analytics - Jornada de Dados/Bootcamp Intensivo SQL 1-5/Aula 02 - Nossos primeiros comandos SQL usando DQL.md",
+    "SQL e Analytics - Jornada de Dados/Bootcamp Intensivo SQL 1-5/Aula 01 - Instanlando PostgreSQL e criando nosso primeiro banco.md",
+    "My_Projects/Analise Projeto Python E-commerce.md"
   ]
 }
