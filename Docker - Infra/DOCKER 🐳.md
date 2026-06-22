@@ -128,7 +128,7 @@ Por padrão, containers são isolados. A rede Docker permite que containers se c
 
 4. Sua aplicação está rodando, isolada e previsível 
 
-5. (Opcional) Você envia a imagem para o Docker Hub com docker push 
+5. (Opcional) Você envia a imagem para o <font color="#2DC26B">Docker Hub</font> com docker push 
 
 6. Em outro computador/servidor, você faz docker pull + docker run 
 
@@ -189,7 +189,7 @@ docker build --no-cache -t app:1.0 . # Reconstrói do zero (sem cache)
 
 Apostila de Docker  —  Docker do Zero ao Deploy 
 
-## **docker images — Listar imagens** 
+## **docker images — <font color="#00b050">Listar imagens</font>**
 
 Mostra todas as imagens baixadas ou construídas no seu computador. 
 
@@ -201,7 +201,7 @@ docker images
 # python        3.11-slim f6e5d4c3b2a1   3 days ago     130MB
 ```
 
-## **docker rmi — Remover imagem** 
+## **docker rmi — <font color="#ff0000">Remover imagem</font> ** 
 
 ```
 docker rmi minha-app:1.0      # Remove pelo nome:tag
@@ -274,7 +274,8 @@ docker restart meu-container  # Para e reinicia
 docker stop $(docker ps -q)
 ```
 
-## **docker rm — Remover container** 
+## **docker rm — <font 
+color="#ff0000">Remover container</font>** 
 
 ```
 docker rm meu-container       # Remove um container PARADO
@@ -408,10 +409,12 @@ uname -a                # Versão do kernel
 ```
 
 14. Crie um arquivo dentro do container: 
+	
+	`echo 'Olá, Docker!' > /tmp/teste.txt cat /tmp/teste.txt` 
 
-`echo 'Olá, Docker!' > /tmp/teste.txt cat /tmp/teste.txt` 15. Saia do container: `exit` 
+14. Saia do container: `exit` 
 
-16. O container parou. Liste-o: 
+15. O container parou. Liste-o: 
 
 ```
 docker ps -a
